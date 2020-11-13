@@ -1,2 +1,2 @@
-# randomgenerator
-quick selection of very simple "random generator" projects
+# txtfiles
+A place where I can put txt files and have them be publicly accessible.
